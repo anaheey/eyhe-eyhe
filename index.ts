@@ -15,4 +15,4 @@ for (i = 0; i < num.length; i++) {
   if (num.length >= s) {
     console.log(num[i]);
   }
-}
+}5
